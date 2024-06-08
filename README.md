@@ -16,6 +16,12 @@ source activate base
 
 conda activate interview
 ````
+3. install requirement
+
+````bash
+pip install -r requirements.txt
+
+````
 
 ### GitHub commands
 
@@ -26,6 +32,6 @@ conda activate interview
 
 3. git commit -m "readme updated"
 
-4. $ git push origin main
+4. git push origin main
 
 ````
